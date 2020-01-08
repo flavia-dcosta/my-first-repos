@@ -1,2 +1,2 @@
 # my-first-repos
-Containes an anular project
+Containes an angular project
